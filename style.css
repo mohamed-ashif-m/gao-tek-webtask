@@ -930,6 +930,9 @@ a{
   .hero-description { font-size: 14px; margin-bottom: 30px; }
   .cta-button { padding: 14px 28px; font-size: 14px; }
 }
+.features-container {
+  padding:15px;
+}
 
 /* Features Section */
 .features-section {
